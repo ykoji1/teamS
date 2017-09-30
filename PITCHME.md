@@ -43,9 +43,12 @@ or
 （ただし英語で）
 
 ［記述方法］
-/movie now
-/movie soon
-/mobie popular
+
+/movies now
+
+/movies soon
+
+/mobies popular
 
 ---
 
