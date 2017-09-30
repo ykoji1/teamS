@@ -36,7 +36,16 @@ or
 
 ［記述方法］
 /dadjoke
+---
+### Movie Night
 
+映画情報を教えてくれるbot
+（ただし英語で）
+
+［記述方法］
+/movie now
+/movie soon
+/mobie popular
 
 ---
 
