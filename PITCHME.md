@@ -8,7 +8,9 @@
 ---
 
 
-### 2枚目のスライド
+### Simple Poll
+
+Slack上で簡単に記名式のアンケートがとれるbot「Simple Poll」
 
 
 ---
