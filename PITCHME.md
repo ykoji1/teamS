@@ -1,7 +1,7 @@
 # teamS
 ### こんにちは！
 
-
+![Logo](assets/logo.jpg)
 
 
 
