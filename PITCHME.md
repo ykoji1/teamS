@@ -87,7 +87,6 @@ or
 
 実演
 
----
 → 左上のチーム名をクリック  
 → preferencesを選ぶ  
 → Notificationsをクリック  
@@ -96,7 +95,8 @@ Direct messages, mentions & keywordsを選ぶ
 
 ---
 
-<img src="***画像のURL***" width="***サイズ***">
+<img src="https://github.com/ykoji1/teamS/blob/master/1_preferences.png?raw=true" width="300">
+
 
 ---
 ## チャンネル毎に設定を変更
