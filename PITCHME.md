@@ -1,4 +1,4 @@
-# teamS
+# team S
 
 SlackのApps紹介
 
