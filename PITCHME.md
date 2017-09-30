@@ -1,7 +1,7 @@
 # teamS
 ### こんにちは！
 
-![Logo](teamS/Chrysanthemum.jpg)
+![Logoo](teamS/Chrysanthemum.jpg)
 
 
 
