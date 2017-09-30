@@ -1,7 +1,7 @@
 # teamS
 ### こんにちは！
 
-![Logoo](teamS/Chrysanthemum.jpg)
+![Logo](https://raw.githubusercontent.com/ykoji1/teamS/ooishi/Chrysanthemum.jpg)
 
 
 
