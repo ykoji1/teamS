@@ -99,14 +99,14 @@ Direct messages, mentions & keywordsを選ぶ
 <img src="***画像のURL***" width="***サイズ***">
 
 ---
-## チャンネルごとに設定を変更する
+## チャンネル毎に設定を変更
 実演
 
 ---
-→ チャンネルを選ぶ
+→ チャンネルを選ぶ  
 → 歯車マークをクリック  
 → Notification preferencesを選ぶ  
-→ Just mentions　を選ぶ  
+→ Just mentionsを選ぶ  
 
 ---
 ### その他
@@ -131,13 +131,11 @@ Mute  
 ミュートの解除
 
 ---
-### ミュートでも自分宛(mention)は届く
-
----
 
 slackは既読スルーできる  
 ###  だが、それがいい
 
+---
 快適なslack lifeを！
 
 ### おわり
