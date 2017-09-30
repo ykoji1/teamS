@@ -1,6 +1,6 @@
 # teamS
 
-## slackのおすすめ  app&bot紹介
+### slackのおすすめ  app&bot紹介
 
 大石一暁  
 吉川浩司
@@ -47,7 +47,7 @@ or
 
 /movies soon
 
-/mobies popular
+/movies popular
 
 ---
 
