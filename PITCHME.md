@@ -1,8 +1,8 @@
 # teamS
 
-# slackのおすすめapp&bot紹介
+## slackのおすすめapp&bot紹介
 
-大石一暁
+大石一暁  
 吉川浩司
 
 ---
