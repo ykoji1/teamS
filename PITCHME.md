@@ -95,9 +95,9 @@ or
 Direct messages, mentions & keywordsを選ぶ 
 
 ---
-<img src="https://github.com/ykoji1/teamS/blob/master/1_preferences.png?raw=true" width="600">
+<img src="https://github.com/ykoji1/teamS/blob/master/1_preferences.png?raw=true" width="800">
 ---
-<img src="https://github.com/ykoji1/teamS/blob/master/2_notifications.png?raw=true" width="600">
+<img src="https://github.com/ykoji1/teamS/blob/master/2_notifications.png?raw=true" width="800">
 
 ---
 ## チャンネル毎に設定を変更
