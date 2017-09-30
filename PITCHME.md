@@ -110,6 +110,11 @@ Direct messages, mentions & keywordsを選ぶ
 → Just mentionsを選ぶ  
 
 ---
+<img src="https://github.com/ykoji1/teamS/blob/master/3_notification preferences.png?raw=true" width="800">
+---
+<img src="https://github.com/ykoji1/teamS/blob/master/4_just mentions.png?raw=true" width="800">
+
+---
 ### その他
 Mute  
 
