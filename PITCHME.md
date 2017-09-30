@@ -1,9 +1,9 @@
 # teamS
 
-### slackのおすすめ  app&bot紹介
+SlackのApps紹介
 
-大石一暁  
-吉川浩司
+### 大石一暁  
+### 吉川浩司
 
 ---
 
@@ -86,6 +86,6 @@ or
 
 
 ---
-## 快適なslack lifeを！
+快適なslack lifeを！
 
 ### おわり
